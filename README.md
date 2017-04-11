@@ -1,11 +1,12 @@
 # AfriWeatherApp
 Fetch current and weather forecast from OpenWeatherMap
 
-<h3>How to use:</h3>
+<h3>How to Install:</h3>
 <p>
 Install using composer:
 <pre>composer require tellyarz/afri-weather-app</pre>
 </p>
+<h3>How to use:</h3>
 
 ```php
 include 'vendor/autoload.php';
