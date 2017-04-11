@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jade
- * Date: 4/10/17
- * Time: 1:39 PM
- */
 
 namespace AfriWeatherApp;
 
