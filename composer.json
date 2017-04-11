@@ -1,5 +1,5 @@
 {
-  "name": "tellyarz/AfriWeatherApp",
+  "name": "tellyarz/afri-weather-app",
   "description": "Fetch current and weather forecast from OpenWeatherMap",
   "require": {
     "php": "^7.0"
