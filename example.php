@@ -3,7 +3,7 @@
 include 'vendor/autoload.php';
 
 //create open weather object and retrieve weather forecast for 5days
-$op = new \AfriWeatherApp\OpenWeather('71e0364b7315af5bfd97c34747d53ede');
+$op = new \AfriWeatherApp\OpenWeather('your_api_key');
 $weather = $op->getWeatherForecast('Abuja');
 
 //decode json string
